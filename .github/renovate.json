@@ -1,0 +1,10 @@
+{
+    "automerge":true,
+    "baseBranches": [
+        "master"
+    ],
+    "extends": [
+        "config:base"
+    ],
+    "requiredStatusChecks": null
+}
